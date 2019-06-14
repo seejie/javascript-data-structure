@@ -62,7 +62,7 @@ log.bind(console)
 // queue.dequeue()
 // log(queue.list())
 
-
+// 击鼓传花
 function hotPotato (list, count) {
   let queue = new Queue()
   queue.format(list)
