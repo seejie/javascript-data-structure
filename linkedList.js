@@ -60,6 +60,10 @@ LinkedList.prototype = {
   // 长度
   size () {
 
+  },
+  // 清空
+  clear () {
+
   }
 }
 
